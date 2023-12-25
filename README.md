@@ -1,3 +1,6 @@
+# Note that this Bruteforcer is already patched due to Phantom X obfuscating their payload and encrypting sent data.
+# The 2 days it was up was a good run.
+
 # What is Phantom X?
 ```
 Phantom X is a paid GTA 5 Mod Menu
